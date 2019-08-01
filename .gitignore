@@ -26,4 +26,4 @@ yarn-error.log*
 *.iml
 
 # bower dependencies
-/pubic/libs/*
+public/libs/
